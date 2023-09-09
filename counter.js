@@ -1,0 +1,1 @@
+document.getElementById('counts').innerText = 5
